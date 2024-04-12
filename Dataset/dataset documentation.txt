@@ -1,0 +1,4 @@
+Dataset used - Snapdeals e-commerce data for 2 years -https://mydataprovider.com/sites/snapdeal/
+
+Two excel files were used and blended on the bases of order id
+
